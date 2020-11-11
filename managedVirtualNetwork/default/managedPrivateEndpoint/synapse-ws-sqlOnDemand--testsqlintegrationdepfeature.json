@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--testsqlintegrationdepfeature",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/76f6943c-c9e2-4915-bead-2a042561e8e0/resourceGroups/abhol-rg/providers/Microsoft.Synapse/workspaces/testsqlintegrationdepfeature",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"testsqlintegrationdepfeature-ondemand.7d0ed1ad-d3a1-4a47-80bc-61505b8e672f.sql.azuresynapse.net"
+		]
+	}
+}
