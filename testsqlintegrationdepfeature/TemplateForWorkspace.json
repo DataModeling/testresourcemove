@@ -104,7 +104,7 @@
 			"apiVersion": "2019-06-01-preview",
 			"properties": {
 				"content": {
-					"query": "select * from hellochangedagain\n\n",
+					"query": "select * from newTablechanged\n\n",
 					"metadata": {
 						"language": "sql"
 					},
